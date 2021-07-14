@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Joshua
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLimZK)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLimZK)](https://github.com/anuraghazra/github-readme-stats@theme=dark)
 
 <!--
 **JoshuaLimZK/JoshuaLimZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
