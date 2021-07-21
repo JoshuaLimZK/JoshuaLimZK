@@ -12,6 +12,10 @@ I am a Secondary 3 student studying in the School of Science and Technology, Sin
 <a href="https://www.python.org">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
+&nbsp
+<a href="https://www.arduino.cc/">
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</a>
 
 ### Basic Languages
 <a href="https://javascript.com">
@@ -26,9 +30,30 @@ I am a Secondary 3 student studying in the School of Science and Technology, Sin
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </a>
 
-### Framework & Libraries
-
-### Software
+### Software & IDEs
+<a href="https://figma.com">
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+&nbsp
+<a href="https://developer.apple.com/xcode/">
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+</a>
+&nbsp
+<a href="https://git-scm.com/">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+&nbsp
+<a href=https://www.microsoft.com/en-us/microsoft-365/excel">
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
+&nbsp
+<a href="https://code.visualstudio.com/">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+&nbsp
+<a href="https://notion.so/">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
 
 ## Past & Ongoing Projects
 **Grocermi:** https://github.com/swiftaccelerator2020/grocermi <br>
@@ -41,7 +66,7 @@ Chief Technology Officer (iOS) for SST Inc (2020-2021)
 Chief Technology Officer (iOS) for Neutron Inc (2021-)
 
 ## Contact
-**Email:** joshua_lim_zhe_kai@s2019.ssts.edu.sg
+**Email:** joshua_lim_zhe_kai@s2019.ssts.edu.sg                                                                                                                           
 
 ## Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK&show_icons=true&theme=dark)
