@@ -6,25 +6,27 @@ I am a Secondary 3 student studying in the School of Science and Technology, Sin
 ## Skills
 ### Proficient Languages
 <a href="https://swift.org">
-  <img src="https://lh5.googleusercontent.com/proxy/6kCFVnL6VTpvVvYLiset8dOXnOHfx1VUXeSIsgqz6UJRi6m6VEA2H4JqpM9tEmRJwtUhQcBbvekcTFgzEOQlHYsyy-HjBsJZXm6m1h_8pULTy77PMe0j3Ra63hvv2-JIH4lHT5uy9qJd1F4DuBex5v8okMwubhvK2pmLgfHE1d2D6ZKOOHexi031U2zAUu6eELffmx0vbQFpa5yQJPhgYQ1N=s0-d" alt="Swift" width="30"/>
+  <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 </a>
 &nbsp
 <a href="https://www.python.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python" width="30">
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 ### Basic Languages
 <a href="https://javascript.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="30"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 &nbsp
 <a href="https://java.com">
-  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="30"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 &nbsp
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30"/>
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </a>
+
+### Framework & Libraries
 
 ### Software
 
