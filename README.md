@@ -56,8 +56,8 @@ I am a Secondary 3 student studying in the School of Science and Technology, Sin
 </a>
 
 ## Past & Ongoing Projects
-**Grocermi:** https://github.com/swiftaccelerator2020/grocermi <br>
-**TalkTogether:** https://github.com/Neutron-Inc/TalkTogether
+**Grocermi:** <a href="https://github.com/swiftaccelerator2020/grocermi"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width=60/></a> &nbsp; <a href="https://apps.apple.com/sg/app/grocermi/id1548968304"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" width=72 /></a><br>
+**TalkTogether:** <a href="https://github.com/Neutron-Inc/TalkTogether"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width=60/></a>
 
 ## Experience
 
@@ -66,7 +66,12 @@ Chief Technology Officer (iOS) for SST Inc (2020-2021)
 Chief Technology Officer (iOS) for Neutron Inc (2021-)
 
 ## Contact
-**Email:** joshua_lim_zhe_kai@s2019.ssts.edu.sg                                                                                                                           
+<a href="mailto:joshua_lim_zhe_kai@s2019.ssts.edu.sg">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                                              
+</a>  
+<a href= "https://www.youtube.com/channel/UCcbUjzQ1moBaaQiprMFdDVA">
+  <img alt="YouTube" src="https://img.shields.io/badge/Joshua Lim-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
 
 ## Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK&show_icons=true&theme=dark)
