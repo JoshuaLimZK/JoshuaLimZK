@@ -48,6 +48,8 @@ Chief Technology Officer (iOS) for Neutron Inc (2021-)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLimZK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Credits
+**Badges:** https://github.com/Ileriayo/markdown-badges
 <!--
 **JoshuaLimZK/JoshuaLimZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
