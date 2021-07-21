@@ -32,6 +32,12 @@ I am a Secondary 3 student studying in the School of Science and Technology, Sin
 **Grocermi:** https://github.com/swiftaccelerator2020/grocermi <br>
 **TalkTogether:** https://github.com/Neutron-Inc/TalkTogether
 
+## Experience
+
+Chief Technology Officer (iOS) for SST Inc (2020-2021)
+<br>
+Chief Technology Officer (iOS) for Neutron Inc (2021-)
+
 ## Contact
 **Email:** joshua_lim_zhe_kai@s2019.ssts.edu.sg
 
