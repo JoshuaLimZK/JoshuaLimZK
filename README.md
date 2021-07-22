@@ -72,6 +72,9 @@ Chief Technology Officer (iOS) for Neutron Inc (2021-)
 <a href= "https://www.youtube.com/channel/UCcbUjzQ1moBaaQiprMFdDVA">
   <img alt="YouTube" src="https://img.shields.io/badge/Joshua Lim-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/joshua-lim-47a45a1a9/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ## Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK&show_icons=true&theme=dark)
