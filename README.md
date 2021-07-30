@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Joshua Lim, 林晢凯
 
 ## About Me
-I am a Secondary 3 student currently studying in the School of Science and Technology, Singapore. I am interested in app development, software engineering in general.
+I am a Secondary 3 student currently studying in the School of Science and Technology, Singapore 🇸🇬. I am interested in app development, software engineering in general.
 
 ## Skills
 ### Proficient Languages
@@ -56,8 +56,10 @@ I am a Secondary 3 student currently studying in the School of Science and Techn
 </a>
 
 ## Past & Ongoing Projects
-**Grocermi:** <a href="https://github.com/swiftaccelerator2020/grocermi"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width=60/></a> &nbsp; <a href="https://apps.apple.com/sg/app/grocermi/id1548968304"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" width=72 /></a><br>
-**TalkTogether:** <a href="https://github.com/Neutron-Inc/TalkTogether"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width=60/></a>
+**Grocermi:** <a href="https://github.com/swiftaccelerator2020/grocermi"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a> &nbsp; <a href="https://apps.apple.com/sg/app/grocermi/id1548968304"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height=20 /></a><br>
+**TalkTogether:** <a href="https://github.com/Jianwen-android/TalkTogether"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a><br>
+**QR generator:** <a href="https://github.com/JoshuaLimZK/qr-app"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a><br>
+**Syren:** <a href="https://github.com/JoshuaLimZK/Syren"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a> &nbsp; <a href="https://qr-app-kappa.vercel.app"><img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=20/></a>
 
 ## Experience
 
