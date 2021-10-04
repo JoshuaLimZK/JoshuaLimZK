@@ -81,13 +81,14 @@ Chief Technology Officer (iOS) for Neutron Inc (2021-)
 ## Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLimZK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLimZK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                               
 ## Credits
-**Badges:** https://github.com/Ileriayo/markdown-badges
+**Badges:** https://github.com/Ileriayo/markdown-badges <br>
+**GH stats** https://github.com/anuraghazra/github-readme-stats                                                                            
+                                                                                                                               
 <!--
 **JoshuaLimZK/JoshuaLimZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
