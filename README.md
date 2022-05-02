@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Joshua Lim, 林晢凯
 
 ## About Me
-I am a Secondary 3 student currently studying in the School of Science and Technology, Singapore 🇸🇬. I am interested in app development, software engineering in general.
+I am a Secondary 4 student currently studying in the School of Science and Technology, Singapore 🇸🇬. I am interested in app development, software engineering in general.
 
 ## Skills
 ### Proficient Languages
