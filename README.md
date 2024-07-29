@@ -74,12 +74,7 @@ Chief Technology Officer (iOS) for Neutron Inc (2021-)
 <a href="https://www.linkedin.com/in/joshua-lim-47a45a1a9/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-## Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaLimZK&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLimZK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                                               
+                                                                                                                             
 ## Credits
 **Badges:** https://github.com/Ileriayo/markdown-badges <br>
 **GH stats** https://github.com/anuraghazra/github-readme-stats                                                                            
