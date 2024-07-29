@@ -64,8 +64,6 @@ I am a Junior College 2 student currently studying in National Junior College ðŸ
 ## Experience
 
 Chief Technology Officer (iOS) for SST Inc (2020-2021)
-<br>
-Chief Technology Officer (iOS) for Neutron Inc (2021-)
 
 ## Contact
 <a href="mailto:joshlimzk@gmail.com">
