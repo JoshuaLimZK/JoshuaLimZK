@@ -68,11 +68,8 @@ Chief Technology Officer (iOS) for SST Inc (2020-2021)
 Chief Technology Officer (iOS) for Neutron Inc (2021-)
 
 ## Contact
-<a href="mailto:joshua_lim_zhe_kai@s2019.ssts.edu.sg">
+<a href="mailto:joshlimzk@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                                              
-</a>  
-<a href= "https://www.youtube.com/channel/UCcbUjzQ1moBaaQiprMFdDVA">
-  <img alt="YouTube" src="https://img.shields.io/badge/Joshua Lim-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/joshua-lim-47a45a1a9/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
