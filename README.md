@@ -14,6 +14,9 @@ I am interested in computing engineering and web development. I'm hoping to purs
 - **Project Pathfinder:** <a href="https://devpost.com/software/pathfinder-9uifow"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
 - **HawkerMan:** <a href="https://devpost.com/software/hawkerman"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
 
+### 2022
+- **FHM 2022:** <a href="https://github.com/JoshuaLimZK/FHM2022"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a>
+
 ### 2020
 - **Grocermi:** <a href="https://github.com/swiftaccelerator2020/grocermi"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a> <a href="https://apps.apple.com/sg/app/grocermi/id1548968304"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white" height=20 /></a><br>
 
