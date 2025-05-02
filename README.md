@@ -1,81 +1,40 @@
 # Hi there 👋 I'm Joshua Lim, 林晢凯
 
 ## About Me
-I am a Junior College 2 student currently studying in National Junior College 🦁. I am interested in app development, software engineering in general.
+I am current serving my 2 years of National Service in the Republic of Singapore Navy 🇸🇬.
 
-## Skills
-### Proficient Languages
-<a href="https://swift.org">
-  <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-</a>
-&nbsp
-<a href="https://www.python.org">
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-&nbsp
-<a href="https://www.arduino.cc/">
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-</a>
+I am interested in computing engineering and web development. I'm hoping to pursue a degree in computer engineering after ORD.
 
-### Basic Languages
-<a href="https://javascript.com">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
-&nbsp
-<a href="https://java.com">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-&nbsp
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</a>
+## Top Projects Directory
+### 2024
+- **Rohde & Schwarz Internship:** <a href="https://github.com/JoshuaLimZK/RnSInternship"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a>
+- **Devil's Dilemma:** <a href="https://devpost.com/software/devil-s-dilemma"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
 
-### Software & IDEs
-<a href="https://figma.com">
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
-&nbsp
-<a href="https://developer.apple.com/xcode/">
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
-</a>
-&nbsp
-<a href="https://git-scm.com/">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-&nbsp
-<a href=https://www.microsoft.com/en-us/microsoft-365/excel">
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</a>
-&nbsp
-<a href="https://code.visualstudio.com/">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a>
-&nbsp
-<a href="https://notion.so/">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
+### 2023
+- **Project Pathfinder:** <a href="https://devpost.com/software/pathfinder-9uifow"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
+- **HawkerMan:** <a href="https://devpost.com/software/hawkerman"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
 
-## Past & Ongoing Projects
-**Grocermi:** <a href="https://github.com/swiftaccelerator2020/grocermi"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a> &nbsp; <a href="https://apps.apple.com/sg/app/grocermi/id1548968304"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height=20 /></a><br>
-**TalkTogether:** <a href="https://github.com/Jianwen-android/TalkTogether"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a><br>
-**QR generator:** <a href="https://github.com/JoshuaLimZK/qr-app"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a><br>
-**Syren:** <a href="https://github.com/JoshuaLimZK/Syren"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20/></a> &nbsp; <a href="https://qr-app-kappa.vercel.app"><img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=20/></a>
+### 2020
+- **Grocermi:** <a href="https://github.com/swiftaccelerator2020/grocermi"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a> <a href="https://apps.apple.com/sg/app/grocermi/id1548968304"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white" height=20 /></a><br>
 
 ## Experience
 
-Chief Technology Officer (iOS) for SST Inc (2020-2021)
+- Intern – Rohde & Schwarz (Dec 2024)
+- STEM Educator – Nullspace Robotics (2022-2023)
+- Chief Technology Officer (iOS) – SST Inc (2020-2021)
+
+## Resume
+<a href="https://docs.google.com/document/d/1jOkg6C2Z1IiPL66diISYn-uFmEuAsVtE/edit?usp=sharing&ouid=102034295280735562681&rtpof=true&sd=true">
+  <img alt="Docs" src="https://img.shields.io/badge/Resume-4285F4?logo=googledocs&logoColor=white"/>                                              
+</a>
 
 ## Contact
 <a href="mailto:joshlimzk@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                                              
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>                                              
 </a>
-<a href="https://www.linkedin.com/in/joshua-lim-47a45a1a9/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-                                                                                                                             
-## Credits
-**Badges:** https://github.com/Ileriayo/markdown-badges <br>
-**GH stats** https://github.com/anuraghazra/github-readme-stats                                                                            
+<a href="https://www.linkedin.com/in/joshualimzk">
+<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>                                                                                                                                                                                                    
                                                                                                                                
 <!--
 **JoshuaLimZK/JoshuaLimZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
