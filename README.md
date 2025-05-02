@@ -6,6 +6,9 @@ I am current serving my 2 years of National Service in the Republic of Singapore
 I am interested in computing engineering and web development. I'm hoping to pursue a degree in computer engineering after ORD.
 
 ## Top Projects Directory
+### 2025
+- **Transcation Tracker:** <a href="https://github.com/JoshuaLimZK/transaction-tracker"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a>
+
 ### 2024
 - **Rohde & Schwarz Internship:** <a href="https://github.com/JoshuaLimZK/RnSInternship"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a>
 - **Devil's Dilemma:** <a href="https://devpost.com/software/devil-s-dilemma"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
