@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Joshua Lim, 林晢凯
 
 ## About Me
-I am current serving my 2 years of National Service in the Republic of Singapore Navy 🇸🇬.
+Currently serving my 2 years of National Service in the Republic of Singapore Navy 🇸🇬.
 
-I am interested in computing engineering and web development. I'm hoping to pursue a degree in computer engineering after ORD.
+I am interested in computing engineering and web development. I'm hoping to pursue a degree in computer engineering after finishing service.
 
 ## Top Projects Directory
 ### 2025
