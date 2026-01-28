@@ -3,9 +3,13 @@
 ## About Me
 Currently serving my 2 years of National Service in the Republic of Singapore Navy 🇸🇬.
 
-I am interested in computing engineering and web development. I'm hoping to pursue a degree in computer engineering after finishing service.
+I am interested in computing engineering and web development. I'm planning to pursue a degree in computer engineering after finishing service.
 
 ## Top Projects Directory
+### 2026
+- **Merli:** <a href="https://github.com/JoshuaLimZK/merli-pet"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a> <a href="https://devpost.com/software/merli"><img alt="GitHub" src="https://img.shields.io/badge/Devpost-003E54.svg?logo=devpost&logoColor=white" height=20/></a>
+
+
 ### 2025
 - **Transcation Tracker:** <a href="https://github.com/JoshuaLimZK/transaction-tracker"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height=20/></a>
 
